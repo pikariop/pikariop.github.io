@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "MYOG Chalk Bag"
+date:   2016-12-06 22:50:00
+categories: myog
+---
+
+I don't even climb, at least not regularly, but needed a chalk bag urgently for weightlifting. A friend was coming to lift with me and to help with some technical stuff I've been struggling with, and he asked whether there were chalk available at the gym we were going to. Sadly not anymore, since apparently some people had been making a mess with it and the gym owner decided to quit offering chalk completely. Long story short, after getting the chalk I had to obviously put it in a container. I decided to do things right the first time and quickly sewed a chalk bag from some stuff that was laying around.
+
+The initial idea was stolen from [the Internet][climbing-com] as always. I also borrowed some design points from [Topo Designs][topo], mainly the *smooth pack cloth neckline* which *wicks chalk and dust down into the [...] interior*.
+
+The materials:
+
+* Grey [X-Pac VX21][extremtextil-vx21] for the exterior body
+* Green [210 den PU-Nylon][extremtextil-pu-nylon] for the neckline
+* Some wool blend felt for the interior (to reduce dust escaping the bag)
+* Random straps of webbing recycled from old gear
+
+Cutting the materials
+
+![Cutting the materials]({{ site.url }}/assets/images/2016-12-06-chalkbag-1.jpg)
+
+Sadly no pics of the sewing process, but basically it was just making the interior and exterior cylinders and sewing them together from the open end, finishing the edges with some webbing. It took less than three hours, planning included.
+
+![The finished chalk bag]({{ site.url }}/assets/images/2016-12-06-chalkbag-2.jpg)
+
+The finished chalk bag fresh from the oven. Needs just a fastener for the drawcord.
+
+This project was particularly satisfying because of the short amount of time it took to create something actually useful. After taking it to the gym a few times, I'm thinking it should *maybe* have been just a bit larger to fit both hands, but overall I like it.
+
+Note to self, next time get some proper eyelets.
+
+[climbing-com]:          http://www.climbing.com/skills/how-to-make-chalk-bag/
+[topo]:                  http://topodesigns.com/products/chalk-bag
+[extremtextil-vx21]:     http://www.extremtextil.de/catalog/X-Pac-VX21-backpack-laminate-230g-sqm::852.html
+[extremtextil-pu-nylon]: http://www.extremtextil.de/catalog/Nylon-210den-PU-coated-130g-qm::184.html
+
